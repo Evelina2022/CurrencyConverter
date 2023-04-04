@@ -20,5 +20,5 @@ if __name__=="__main__":
     print("\nConvert Currency in Yuan to USD:")
 
     for curr in Yuan:
-        wght_pounds=currency_converter(curr, pound_to_kg)
+        wght_pounds=currency_converter(curr, yuan_to_usd)
         print(f"{curr} Yuan -> {wght_pounds} USD")
