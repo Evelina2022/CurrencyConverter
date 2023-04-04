@@ -4,7 +4,7 @@ def currency_converter(currency, conv_coef):
 
 if __name__=="__main__":
     usd_to_Yuan = 6.84
-    pound_to_kg= 0.15
+    yuan_to_usd= 0.15
 
     usd=[1,1500,25000]
     Yuan=[1,1750,28000]
